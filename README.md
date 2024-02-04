@@ -10,5 +10,7 @@
   - [**Week2**](https://www.youtube.com/playlist?list=PLKi5vUe5hkZh6BhsGpDQBJYM_fFG9VWbL)
   - [**Week3**](https://www.youtube.com/playlist?list=PLKi5vUe5hkZirFABVUTaWAyIU6mhYrNrU)
   - [**Week4**](https://www.youtube.com/playlist?list=PLKi5vUe5hkZg-BWIUp3N0mOn_yXbUGHeh)
-  - [**Week5**](https://www.youtube.com/playlist?list=PLKi5vUe5hkZhvs0bxTuMqclUPgFS7gozu)   
+  - [**Week5**](https://www.youtube.com/playlist?list=PLKi5vUe5hkZhvs0bxTuMqclUPgFS7gozu)
+  - [**Week6**](https://www.youtube.com/watch?v=k3GO5DRsggY&list=PL93xoMrxRJIvPg3nW8WG0HDDgpMQtUkag)
+ 
  
